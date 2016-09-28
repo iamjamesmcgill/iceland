@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Resume-2-Copy" sketch:type="MSArtboardGroup" transform="translate(-46.000000, -46.000000)" fill="#000000">
+            <g id="Header" sketch:type="MSLayerGroup" transform="translate(46.000000, 46.000000)">
+                <g id="Logo" sketch:type="MSShapeGroup">
+                    <path d="M0,12.9361702 C0,11.2440637 1.37516642,9.87234043 3.06382979,9.87234043 C4.75593625,9.87234043 6.12765957,11.2475068 6.12765957,12.9361702 C6.12765957,14.6282767 4.75249316,16 3.06382979,16 C1.37172332,16 0,14.6248336 0,12.9361702 Z M9.87234043,12.9361702 C9.87234043,11.2440637 11.2475068,9.87234043 12.9361702,9.87234043 C14.6282767,9.87234043 16,11.2475068 16,12.9361702 C16,14.6282767 14.6248336,16 12.9361702,16 C11.2440637,16 9.87234043,14.6248336 9.87234043,12.9361702 Z M9.87234043,3.06382979 C9.87234043,1.37172332 11.2475068,0 12.9361702,0 C14.6282767,0 16,1.37516642 16,3.06382979 C16,4.75593625 14.6248336,6.12765957 12.9361702,6.12765957 C11.2440637,6.12765957 9.87234043,4.75249316 9.87234043,3.06382979 Z" id="Rectangle-1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
